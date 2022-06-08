@@ -3,7 +3,7 @@
 </p>
 
 <p align="centro">
-<img src="https://imgur.com/JCs0yYJ" alt="GataBot-MD" width="900"/>
+<img src="https://imgur.com/JCs0yYJ.jpg" alt="GataBot-MD" width="900"/>
 </p>
 
 
