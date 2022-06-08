@@ -3,7 +3,7 @@
 </p>
 
 <p align="centro">
-<img src="ponrt link foto" alt="GataBot-MD" width="900"/>
+<img src="https://imgur.com/JCs0yYJ" alt="GataBot-MD" width="900"/>
 </p>
 
 
@@ -13,6 +13,11 @@
 </p>  
 
 -----
+### 💖 ```Donar a la creadora de GataBot-MD``` [`Aquí`](https://paypal.me/OficialGD)
+<p align="left">
+<img src="https://i.imgur.com/WwxBm8o.jpg" alt="GataBot-MD" width="200"/>
+</p>
+
 ### 💖 ```Donar a la creadora de GataBot-MD``` [`Aquí`](https://paypal.me/OficialGD)
 <p align="left">
 <img src="https://i.imgur.com/WwxBm8o.jpg" alt="GataBot-MD" width="200"/>
