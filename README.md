@@ -1,5 +1,5 @@
 <p align="centro">
-  <a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?size=35&duration=5006&color=F72234&center=falso&vCenter=falso&lines=GeraBotV1" height="90px"
+  <a href="https://github.com/totalalfredo2"><img src="http://readme-typing-svg.herokuapp.com?size=35&duration=5006&color=F72234&center=falso&vCenter=falso&lines=GeraBotV1" height="90px"
 </p>
 
 <p align="centro">
@@ -13,9 +13,9 @@
 </p>  
 
 -----
-### 💖 ```Donar a la creadora de GataBot-MD``` [`Aquí`](https://paypal.me/OficialGD)
+### 💖 ```Donar a projectos Gerabot``` [`Aquí`](https://paypal.me/totalalfredo)
 <p align="left">
-<img src="https://i.imgur.com/WwxBm8o.jpg" alt="GataBot-MD" width="200"/>
+<img src="https://imgur.com/JCs0yYJ.jpg" alt="GataBot-MD" width="200"/>
 </p>
 
 ### 💖 ```Donar a la creadora de GataBot-MD``` [`Aquí`](https://paypal.me/OficialGD)
