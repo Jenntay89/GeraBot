@@ -15,12 +15,12 @@
 -----
 ### 💖 ```Donar a projectos Gerabot``` [`Aquí`](https://paypal.me/totalalfredo)
 <p align="left">
-<a href="https://github.com/totalalfredo2"><img src="https://imgur.com/JCs0yYJ.jpg" alt="GataBot-MD" width="200"/>
+<a href="https://github.com/totalalfredo2"><img src="https://imgur.com/JCs0yYJ.jpg" alt="GataBot-MD" width="200"/></a>
 </p>
 
 ### 💖 ```Donar a la creadora de GataBot-MD``` [`Aquí`](https://paypal.me/OficialGD)
 <p align="left">
-<a href="https://github.com/GataNina-Li"><img src="https://i.imgur.com/WwxBm8o.jpg" alt="GataBot-MD" width="200"/>
+<a href="https://github.com/totalalfredo2"><img src="https://i.imgur.com/WwxBm8o.jpg" alt="GataBot-MD" width="200"/></a>
 </p>
 
 #### ☂️ PARA USUARIOS DE HEROKU: Intalar los buildpack
