@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://github.com/GataNina-Li"><img src="https://i.imgur.com/WwxBm8o.jpg" alt="GataBot-MD" width="200"/></a>
 </p>
-
+ 
 #### ☂️ PARA USUARIOS DE HEROKU: Intalar los buildpack
 
 ```bash
