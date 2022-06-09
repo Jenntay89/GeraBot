@@ -20,7 +20,7 @@
 
 ### 💖 ```Donar a la creadora de GataBot-MD``` [`Aquí`](https://paypal.me/OficialGD)
 <p align="left">
-<a href="https://github.com/totalalfredo2"><img src="https://i.imgur.com/WwxBm8o.jpg" alt="GataBot-MD" width="200"/></a>
+<a href="https://github.com/GataNina-Li"><img src="https://i.imgur.com/WwxBm8o.jpg" alt="GataBot-MD" width="200"/></a>
 </p>
 
 #### ☂️ PARA USUARIOS DE HEROKU: Intalar los buildpack
