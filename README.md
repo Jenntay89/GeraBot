@@ -13,6 +13,11 @@
 </p>  
 
 -----
+<p align="center">
+<a href="https://www.tiktok.com/@gerardo_alexis_r_p?is_from_webapp=1&sender_device=pc"><img title="GataBot-MD" src="https://imgur.com/RUjF7fk.jpg"></a> 
+</p>  
+
+-----
 ### 💖 ```Donar a projectos Gerabot``` [`Aquí`](https://paypal.me/totalalfredo)
 <p align="left">
 <a href="https://github.com/totalalfredo2"><img src="https://imgur.com/JCs0yYJ.jpg" alt="GataBot-MD" width="200"/></a>
